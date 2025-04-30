@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>「愛」</title>
+<link rel="stylesheet" herf="stylesheet.css">
+</head>
+<body>
+<style>
+body {
+font-size:25;
+font-family:serif;}
+h1 {
+font-size:50;}
+.main {
+font-size:40;}
+</style>
+<div class="header">
+<h1>愛</h1>
+<div class="main">
+<h2>読み方...</h2>
+<p class="main">[音読み]</p>
+<p>アイ　[訓読み]め・お・まな・かな・いと・う</p>
+<br>
+<p class="main">[意味]</p>
+<p>(1)あいする。また、その心。(2)このむ。たいせつにする。</p>
+<p class="main">[部首]</p>
+<p>こころへん</p>
+<p class="main">[画数]</p>
+<p>13画</p>
+</body>
+</html>
