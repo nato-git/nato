@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+ <title>小学生向け漢字辞典</title>
+ <link rel="stylesheet" href="stylesheet.css">
+ h1 {
+  font-size:50px;
+  background-color:blue;
+  font-family:serif;}
+ .main {
+  font-size:15px;
+  font-family:serif;}
+</head>
+<body>
+ <div class="header">
+  <h1>小学生向け漢字辞典(しょうがくせいむけかんじじてん)</h1>
+ </div>
+ <div class="main">
+ <h3>小学4年生</h3>
+  <a>愛</a>
+  <a>案</a>
+  <a>以</a>
+  <a>衣</a>
+  <a>位</a>
+  <a>茨</a>
+  <a>印</a>
+  <a>英</a>
+  <a>栄</a>
+  <a>媛</a>
+  <a>塩</a>
+  <a>岡</a>
+  <a>億</a>
+  <a>加</a>
+  <a>果</a>
+  <a>貨</a>
+  <a>課</a>
+  <a>芽</a>
+  <a>賀</a>
+  <a>改</a>
+  <a>械</a>
+  <a>害</a>
+  <a>街</a>
+  <a>各</a>
+  <a>覚</a>
+  <a>潟</a>
+  <a>完</a>
+  <a>官</a>
+  <a>管</a>
+  <a>関</a>
+  <a>観</a>
+  <a>願</a>
+  <a>岐</a>
+  <a>希</a>
+  <a>季</a>
+  <a>旗</a>
+  <a>器</a>
+  <a>機</a>
+  <a>議</a>
+  <a>求</a>
+  <a>泣</a>
+  <a>給</a>
+  <a>挙</a>
+  <a>漁</a>
+  <a>共</a>
+  <a>協</a>
+  <a>鏡</a>
+  <a>競</a>
+  <a>極</a>
+  <a>熊</a>
+  <a>訓</a>
+  <a>軍</a>
+  <a>群</a>
+  <a>郡</a>
+  <a>径</a>
+  <a>景</a>
+  <a>芸</a>
+</body>
+</html>
